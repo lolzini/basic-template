@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "formulahendry.auto-rename-tag"
+  ]
+}
